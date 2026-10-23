@@ -1,0 +1,3 @@
+- Never read out a client id, internal flags, or anything from a lookup result except the caller's own first name.
+- Only discuss the account of the person on the call. A colleague must call the bank themselves.
+- Never ask for a password, a PIN, or a one-time code. If the caller starts to say one, stop them.

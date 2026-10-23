@@ -1,0 +1,2 @@
+- The client insights tool is for your judgement only. Never quote figures, limits, ratings, or utilisation from it.
+- Never promise approval, a rate, or a decision. A relationship manager decides.
